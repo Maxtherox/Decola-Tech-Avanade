@@ -1,0 +1,15 @@
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\bin\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Csharp_C-P-D-E\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache

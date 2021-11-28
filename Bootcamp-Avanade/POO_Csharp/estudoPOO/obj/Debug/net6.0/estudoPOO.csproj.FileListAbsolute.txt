@@ -1,0 +1,15 @@
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\bin\Debug\net6.0\estudoPOO.exe
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\bin\Debug\net6.0\estudoPOO.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\bin\Debug\net6.0\estudoPOO.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\bin\Debug\net6.0\estudoPOO.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\bin\Debug\net6.0\ref\estudoPOO.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\bin\Debug\net6.0\estudoPOO.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\estudoPOO.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\estudoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\estudoPOO.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\estudoPOO.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\estudoPOO.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\estudoPOO.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\ref\estudoPOO.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\estudoPOO.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\POO_Csharp\estudoPOO\obj\Debug\net6.0\estudoPOO.genruntimeconfig.cache

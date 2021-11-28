@@ -1,0 +1,15 @@
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\bin\Debug\net6.0\myApp.exe
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\bin\Debug\net6.0\myApp.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\bin\Debug\net6.0\myApp.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\bin\Debug\net6.0\myApp.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\bin\Debug\net6.0\ref\myApp.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\bin\Debug\net6.0\myApp.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\myApp.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\myApp.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\myApp.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\myApp.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\ref\myApp.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\myApp.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\myApp\obj\Debug\net6.0\myApp.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\bin\Debug\net6.0\Csharp.exe
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\bin\Debug\net6.0\Csharp.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\bin\Debug\net6.0\Csharp.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\bin\Debug\net6.0\Csharp.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\bin\Debug\net6.0\ref\Csharp.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\bin\Debug\net6.0\Csharp.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\Csharp.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\Csharp.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\Csharp.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\ref\Csharp.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\Csharp.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\obj\Debug\net6.0\Csharp.genruntimeconfig.cache
