@@ -1,0 +1,15 @@
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\colecoes.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\colecoes.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\colecoes.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\colecoes.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\bin\Debug\net6.0\colecoes.exe
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\bin\Debug\net6.0\colecoes.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\bin\Debug\net6.0\colecoes.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\bin\Debug\net6.0\colecoes.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\bin\Debug\net6.0\ref\colecoes.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\bin\Debug\net6.0\colecoes.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\colecoes.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\ref\colecoes.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\colecoes.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Colecoes_E_LINQDotnet\colecoes\obj\Debug\net6.0\colecoes.genruntimeconfig.cache
