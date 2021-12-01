@@ -10,7 +10,7 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 
 
 
-## Navegação
+## Navegação (atualizando)
 
 - Lógica de Programação Essencial
 - Aprenda o que são Estrutura de Dados e Algoritmos
@@ -22,11 +22,11 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 - [Programando com Orientação a Objeto com C#](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/POO_Csharp)
 - [Construtores, Propriedades, Delegates e eventos em .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Csharp_C-P-D-E)
 - [Fundamentos de Coleções e LINQ com .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Colecoes_E_LINQDotnet)
-- Introdução a microsserviços com .NET
+- Introdução a microservices com .NET
 - Introdução a Design Patterns com .NET
-- Programando em C#
+- [Programando em C#](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Desafios)
 - [Criando um APP simples de cadastros de séries em .NET](https://github.com/Maxtherox/Primeiro_App_Dotnet)
-- SQL Server - criando suas priimeiras consultas
+- SQL Server - criando suas primeiras consultas
 - Modelando um banco de dados na prática com SQL Server
 - Criando uma API REST Simples com .NET Core
 
