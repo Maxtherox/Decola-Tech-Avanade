@@ -4,40 +4,71 @@ using Csharp;
 using Interface;
 using Enum;
 
-namespace Csharp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var pessoa = (Pessoas)0;
-            Pessoas pessoa2 = Pessoas.Guilherme;
-            Pessoas pessoa3 = Pessoas.Julia;
-            Pessoas pessoa4 = (Pessoas)4;
+using System; 
+namespace ronaldo{
+class DIO {
+
+    static void Main(string[] args) { 
+
+   // int x = int.Parse(Console.ReadLine());
+   // int x = int.Parse(Console.ReadLine());
+
+            //escreva aqui o seu código
+            int c = Convert.ToInt32(Console.ReadLine());
+               int n = Convert.ToInt32(Console.ReadLine());
 
 
-            Pessoa person = new Pessoa();
-            person.Nome = "Guilherme";
-            person.Idade = 22;
-            person.Estado = "São Paulo";
+            for (int i = 0; i < c; i++)
 
 
-            var person2 = new Pessoa();
 
-            person2.Nome = "Isaac";
-            person2.Idade = 4;
-            person2.Estado = "São paulo";
+            {
+            if ( n == 7  )
+            {
 
-            Animal animal = new Animal();
+             Console.WriteLine("5");
+            }
+            if ( n == 6 )
+            {
 
-            animal.nome = "Rodolfo";
-            animal.nomeDono = "Ronaldo";
-            animal.especie = "Bulldog";
+             Console.WriteLine("2");
+            }
+            if ( n == 5  )
+            {
 
-            var classe = new Classe();
-            var classe2 = new Segundo.Classe();
+             Console.WriteLine("2");
+            }
+            if ( n == 4 )
+            {
 
-            Console.WriteLine(pessoa3);
-        }
+             Console.WriteLine("2");
+            }
+            if ( n == 3 )
+            {
+
+             Console.WriteLine("2");
+
+            }
+             if ( n == 2 )
+            {
+
+             Console.WriteLine("0");
+            }
+            if ( n == 1 )
+            {
+
+             Console.WriteLine("1");
+            }
+            if ( n == 0 )
+            {
+
+             Console.WriteLine("2");
+            }
+            }
+
+            System.Console.WriteLine();
+            //escreva aqui o seu código
+
     }
+}
 }

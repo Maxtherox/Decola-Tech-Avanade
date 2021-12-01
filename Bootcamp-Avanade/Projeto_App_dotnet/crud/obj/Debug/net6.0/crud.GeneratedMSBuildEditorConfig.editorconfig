@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Csharp
-build_property.ProjectDir = c:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Introdução ao C#\Csharp\Csharp\Csharp\
+build_property.RootNamespace = crud
+build_property.ProjectDir = C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\

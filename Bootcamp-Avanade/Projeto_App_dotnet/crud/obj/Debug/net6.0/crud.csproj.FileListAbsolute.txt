@@ -1,0 +1,15 @@
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\bin\Debug\net6.0\crud.exe
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\bin\Debug\net6.0\crud.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\bin\Debug\net6.0\crud.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\bin\Debug\net6.0\crud.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\bin\Debug\net6.0\ref\crud.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\bin\Debug\net6.0\crud.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\crud.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\crud.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\crud.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\crud.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\crud.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\ref\crud.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\crud.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Projeto_App_dotnet\crud\obj\Debug\net6.0\crud.genruntimeconfig.cache
