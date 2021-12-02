@@ -12,8 +12,9 @@
             "program": "${workspaceFolder}/crud/bin/Debug/net6.0/crud.dll",
             "args": [],
             "cwd": "${workspaceFolder}/crud",
-            "console": "internalConsole",
-            "stopAtEntry": false
+            "terminal": "externalterminal",
+            "stopAtEntry": false,
+            "externalConsole": true
         },
         {
             "name": ".NET Core Attach",

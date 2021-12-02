@@ -1,0 +1,3 @@
+#### Lógica de Programação Essencial
+
+A lógica de programação pode ser comparada com uma receita de bolo, onde é preciso seguir todas as etapas para chegar em um bom produto final. Para começar a programar, o aluno vai entender o que são algoritmos, variáveis e fluxogramas e como aplicar todos esses conceitos em projetos. Nesse curso o especialista ensina como começar a trabalhar com o pensamento lógico e por etapas até o pseudocódigo, que é a forma universal de escrever um algoritmo a partir de uma linguagem simples, o que prepara o aluno para aprender qualquer linguagem no futuro.
