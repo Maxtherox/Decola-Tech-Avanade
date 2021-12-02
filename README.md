@@ -26,7 +26,7 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 - Introdução a Design Patterns com .NET
 - [Programando em C#](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Desafios)
 - [Criando um APP simples de cadastros de séries em .NET](https://github.com/Maxtherox/Primeiro_App_Dotnet)
-- SQL Server - criando suas primeiras consultas
+- [SQL Server - criando suas primeiras consultas](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/SQL-Server-Criando-Consulta/Anota%C3%A7%C3%B5es)
 - Modelando um banco de dados na prática com SQL Server
 - Criando uma API REST Simples com .NET Core
 
