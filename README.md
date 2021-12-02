@@ -12,9 +12,9 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 
 ## Navegação (atualizando)
 
-- Lógica de Programação Essencial
-- Aprenda o que são Estrutura de Dados e Algoritmos
-- Introdução ao Git e ao GitHub
+- [Lógica de Programação Essencial](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o%20essencial/Anota%C3%A7%C3%B5es)
+- [Aprenda o que são Estrutura de Dados e Algoritmos](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Estrutura%20de%20dados%20e%20alg)
+- [Introdução ao Git e ao GitHub](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Introdu%C3%A7%C3%A3o%20ao%20GIT%20e%20github/Anotacoes)
 - [Criando seu Primeiro Repositório no GitHub para compartilhar seu progresso](https://github.com/Maxtherox/Dio-Git-Challenge)
 - [IDE Instalação e Configuração (Visual Studio)](https://github.com/Maxtherox/Estudos_VS)
 - [Introdução ao C# e .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Introdu%C3%A7%C3%A3o%20ao%20C%23)
@@ -22,7 +22,7 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 - [Programando com Orientação a Objeto com C#](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/POO_Csharp)
 - [Construtores, Propriedades, Delegates e eventos em .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Csharp_C-P-D-E)
 - [Fundamentos de Coleções e LINQ com .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Colecoes_E_LINQDotnet)
-- Introdução a microservices com .NET
+- [Introdução a microservices com .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Microservi%C3%A7os/Anota%C3%A7oes)
 - Introdução a Design Patterns com .NET
 - [Programando em C#](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Desafios)
 - [Criando um APP simples de cadastros de séries em .NET](https://github.com/Maxtherox/Primeiro_App_Dotnet)
