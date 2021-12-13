@@ -23,13 +23,13 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 - [Construtores, Propriedades, Delegates e eventos em .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Csharp_C-P-D-E)
 - [Fundamentos de Coleções e LINQ com .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Colecoes_E_LINQDotnet)
 - [Introdução a microservices com .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Microservi%C3%A7os/Anota%C3%A7oes)
-- Introdução a Design Patterns com .NET
+- [Introdução a Design Patterns com .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Design%20Patterns)
 - [Programando em C#](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Desafios)
 - [Criando um APP simples de cadastros de séries em .NET](https://github.com/Maxtherox/Primeiro_App_Dotnet)
 - [SQL Server - criando suas primeiras consultas](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/SQL-Server-Criando-Consulta/Anota%C3%A7%C3%B5es)
 - [Modelando um banco de dados na prática com SQL Server](https://github.com/Maxtherox/Decola-Tech-Avanade/blob/main/Bootcamp-Avanade/Modelando%20Banco%20de%20dados/Anota%C3%A7%C3%B5es/Modelando%20banco%20de%20dados.md)
 - [Boas praticas no SQL](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Boas%20praticas%20no%20SQL/Anota%C3%A7%C3%B5es)
-- Criando uma API REST Simples com .NET Core
+- [Criando uma API REST Simples com .NET Core]()
 
 
 
