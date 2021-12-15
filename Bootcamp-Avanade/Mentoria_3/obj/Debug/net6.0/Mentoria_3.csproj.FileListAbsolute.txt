@@ -1,0 +1,15 @@
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\bin\Debug\net6.0\Mentoria_3.exe
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\bin\Debug\net6.0\Mentoria_3.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\bin\Debug\net6.0\Mentoria_3.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\bin\Debug\net6.0\Mentoria_3.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\bin\Debug\net6.0\ref\Mentoria_3.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\bin\Debug\net6.0\Mentoria_3.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\Mentoria_3.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\Mentoria_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\Mentoria_3.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\Mentoria_3.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\Mentoria_3.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\Mentoria_3.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\ref\Mentoria_3.dll
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\Mentoria_3.pdb
+C:\Users\gui-r\OneDrive\Documentos\Dio\Decola-Tech-Avanade\Bootcamp-Avanade\Mentoria_3\obj\Debug\net6.0\Mentoria_3.genruntimeconfig.cache
