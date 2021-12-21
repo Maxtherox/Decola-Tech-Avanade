@@ -11,20 +11,21 @@ namespace POO_mentoria
             Mago wedge = new Mago("Wedge", "Mago");
             Inimigo Marata = new Inimigo("Marata", "Humano");
            
-          Console.WriteLine(wedge.Atacar(10));
+          Console.WriteLine(wedge.Atacar(40));
           Console.WriteLine(Marata.Atacar());
 
            if( wedge.valorLasthit == Marata.valorLasthit){
-               Console.WriteLine (" Empate, ambos deram o dano de: " + arus.valorLasthit);
-           }else if (arus.valorLasthit > Marata.valorLasthit){
-               Marata.ReceberDano(arus.valorLasthit - Marata.valorLasthit);
-               Console.WriteLine(arus.Nome + " Venceu esse round");
+               Console.WriteLine (" Empate, ambos deram o dano de: " + wedge.valorLasthit);
+           }else if (wedge.valorLasthit > Marata.valorLasthit){
+               Marata.ReceberDano(wedge.valorLasthit - Marata.valorLasthit);
+               Console.WriteLine(wedge.Nome + " Venceu esse round");
            }else{
-               arus.ReceberDano(Marata.valorLasthit - arus.valorLasthit);
+               wedge.ReceberDano(Marata.valorLasthit - wedge.valorLasthit);
                Console.WriteLine(Marata.Nome + " Venceu esse round");
+    
            }
 
-
+System.Console.WriteLine("Pontos de vida do inimigo: " + Marata.PontosDeVida);
      
         }
 

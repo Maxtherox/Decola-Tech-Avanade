@@ -13,7 +13,7 @@ namespace Mentoria_3.src.Entities
                 this.PontosDeMagia = 50;
         }
 
-
+        //propriedades
         public string Nome { get; set; }
         public int PontosDeVida { get; set; }
 
