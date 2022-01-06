@@ -39,5 +39,5 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 - [Mentoria #2: Como resolver o desafio de código](#)
 - [Mentoria #3: Tire suas dúvidas sobre programação orientada a objetos com exemplos práticos](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Mentoria_3)
 - [Mentoria #4: Inclusão e diiversidade na Avanade](#)
-- Mentoria #5: Testes de Software em .NET
+- [Mentoria #5: Testes de Software em .NET](https://github.com/Maxtherox/Decola-Tech-Avanade/tree/main/Bootcamp-Avanade/Mentoria5)
 
